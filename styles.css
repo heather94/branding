@@ -1,0 +1,118 @@
+/*HEADING*/
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+h1 {
+  
+}
+
+/*BOX FOR COLOUR GUIDE*/
+.colours {
+  border: dashed 1px black;
+  padding: 10px;
+  margin: 10px;
+  }
+ul.samples {
+  padding: 5px;
+  margin: 10px;
+}
+.colour {
+  color: white;
+  text-transform: uppercase;
+  font-weight: 100;
+  letter-spacing: 2px;
+  display: block;
+}
+.colour-code {
+  color: white;
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+#autumn {
+  background-color: #C80004;
+  margin: 0 0 3px 0;
+  padding: 30px 40px;
+  width: 200px;
+  list-style: none;
+  text-align: center;
+  display: inline-block;
+}
+#rust {
+  background-color: #e46c2b;
+  margin: 0 0 3px 0;
+  padding: 30px 40px;
+  width: 200px;
+  list-style: none;
+  text-align: center;
+  display: inline-block;
+}
+#green {
+  background-color: #1b4b23;
+  margin: 0 0 3px 0;
+  padding: 30px 40px;
+  width: 200px;
+  list-style: none;
+  text-align: center;
+  display: inline-block;
+}
+#blue {
+  background-color: #0E263B;
+  margin: 0 0 3px 0;
+  padding: 30px 40px;
+  width: 200px;
+  list-style: none;
+  text-align: center;
+  display: inline-block;
+}
+#gold {
+  background-color: #b8860b;
+  margin: 0 0 3px 0;
+  padding: 30px 40px;
+  width: 200px;
+  list-style: none;
+  text-align: center;
+  display: inline-block;
+}
+/*BOX FOR FONT STYLES*/
+.fonts {
+  border: dashed 1px black;
+  padding: 10px;
+  margin: 10px;
+  }
+.Montserrat {
+  font-family: 'Montserrat', sans-serif;
+  padding: 5px;
+  margin: 10px;
+  text-align: left;
+  display: inline-block;
+}
+.Ubuntu {
+  font-family: 'ubuntu', sans-serif;
+  padding: 5px;
+  margin: 10px;
+  text-align: left; 
+  display: inline-block;
+}
+.Roboto-Condensed {
+  font-family: 'Roboto Condensed', sans-serif;
+  padding: 5px;
+  margin: 10px;
+  text-align: left; 
+  display: inline-block;
+}
+/*BOX FOR TEXT STYLES*/
+.text-styles {
+  border: dashed 1px black;
+  padding: 10px;
+  margin: 10px;
+  text-align: left;
+  }
+  .subheading {
+    font-family: 'ubuntu', sans-serif;
+  }
+  .paragraph {
+    font-family: 'ubuntu', sans-serif;
+  }
+/*BOX FOR GRAPHIC STYLES*/
